@@ -1,1 +1,2 @@
 #!/bin/bash
+egrep ^[[:suDO:]] /etc/ssh/sshd_config
